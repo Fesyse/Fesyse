@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm Fesyse</h1>
+
 - 🔭 I’m currently working on [Fycode](https://github.com/Fesyse/fycode-backend)
 - 🌱 I’m currently learning **Next.js, Nest.js**
 - 💬 Ask me about **Next.js, React**
