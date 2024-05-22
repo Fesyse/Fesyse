@@ -1,17 +1,10 @@
 <h1 align="center">Hi 👋, I'm Fesyse</h1>
 
-- 🔭 I’m currently working on [Fycode](https://github.com/Fesyse/fycode-backend)
+- 🔭 I’m currently working on Fycode [backend](https://github.com/Fesyse/fycode-backend) [frontend](https://github.com/Fesyse/fycode-frontend)
 - 🌱 I’m currently learning **Next.js, Nest.js**
 - 💬 Ask me about **Next.js, React**
-- 📫 How to reach me **maksimlol.mail.com@mail.ru**
 - 👨‍💻 All of my projects are available at **https://github.com/Fesyse**
 - ⚡ Fun fact **HTML is THE best programming language**
-
-<div> <a href="https://github.com/Fesyse" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
-<a href = "mailto:maksimlol.mail.com@mail.ru"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-</div>
-
-<img src="/snake.svg" alt="Snake animation" />
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
