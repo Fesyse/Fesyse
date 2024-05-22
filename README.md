@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm Fesyse</h1>
+<p>⚙️Currenty working 1 year as hobby software engineer</p>
 
 - 🔭 I’m currently working on Fycode [backend](https://github.com/Fesyse/fycode-backend) [frontend](https://github.com/Fesyse/fycode-frontend)
 - 🌱 I’m currently learning **Next.js, Nest.js**
@@ -6,7 +7,7 @@
 - 👨‍💻 All of my projects are available at **https://github.com/Fesyse**
 - ⚡ Fun fact **HTML is THE best programming language**
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">My loved languages and tools:</h3>
 <p align="left">
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/typescript-original.svg" alt="Typescript" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/javascript-original.svg" alt="Javascript" width="40" height="40"/>
