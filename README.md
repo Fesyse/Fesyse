@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Fesyse</h1>
-<p>⚙️Currenty working 1 year as hobby software engineer</p>
+<p align="center">⚙️Currenty working 1 year as hobby software engineer</p>
 
 - 🔭 I’m currently working on Fycode [backend](https://github.com/Fesyse/fycode-backend) [frontend](https://github.com/Fesyse/fycode-frontend)
 - 🌱 I’m currently learning **Next.js, Nest.js**
