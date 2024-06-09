@@ -3,7 +3,6 @@
 
 - 🔭 I’m currently working on Fycode [backend](https://github.com/Fesyse/fycode-backend) [frontend](https://github.com/Fesyse/fycode-frontend)
 - 🌱 I’m currently learning **Next.js, Nest.js**
-- 💬 Ask me about **Next.js, React**
 - 👨‍💻 All of my projects are available at **https://github.com/Fesyse**
 - ⚡ Fun fact **HTML is THE best programming language**
 
