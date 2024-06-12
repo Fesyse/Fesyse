@@ -1,9 +1,8 @@
 <h1 align="center">Hi 👋, I'm Fesyse</h1>
-<p align="center">⚙️Currenty working 1 year as hobby software engineer</p>
+<p align="center">⚙️Currenty working 1 year as hobby software engineer⚙️</p>
 
 - 🔭 I’m currently working on Fycode [backend](https://github.com/Fesyse/fycode-backend) [frontend](https://github.com/Fesyse/fycode-frontend)
 - 🌱 I’m currently learning **Next.js, Nest.js**
-- 👨‍💻 All of my projects are available at **https://github.com/Fesyse**
 - ⚡ Fun fact **HTML is THE best programming language**
 
 <h3 align="left">My loved languages and tools:</h3>
