@@ -2,7 +2,7 @@
 <p align="center">⚙️Currenty working 1 year as hobby software engineer⚙️</p>
 
 - 🔭 I’m currently working on [Another react router](https://github.com/Fesyse/another-react-router)
-- 🌱 I’m currently learning **Next.js, Nest.js**
+- 🌱 I’m currently learning **Next.js**
 - ⚡ Fun fact **HTML is THE best programming language**
 
 <h3 align="left">My loved languages and tools:</h3>
