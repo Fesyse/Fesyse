@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Fesyse</h1>
 <p align="center">⚙️Currenty working 1 year as hobby software engineer⚙️</p>
 
-- 🔭 I’m currently working on [Another react router](https://github.com/Fesyse/another-react-router)
+- 🔭 I’m currently working on [Tasklytic](https://github.com/fesyse/tasklytic)
 - 🌱 I’m currently learning **Next.js**
 - ⚡ Fun fact **HTML is THE best programming language**
 
