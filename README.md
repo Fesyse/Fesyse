@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning **Next.js**
 - ⚡ Fun fact **HTML is THE best programming language**
 
-<h3 align="left">My loved languages and tools:</h3>
+<h3 align="left">Things that im working with:</h3>
 <p align="left">
 <a href="https://www.typescriptlang.org/"><img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/typescript-original.svg" alt="Typescript" width="40" height="40"/></a>
 <a href="https://developer.mozilla.org/en/docs/Learn/JavaScript"><img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/javascript-original.svg" alt="Javascript" width="40" height="40"/></a>
