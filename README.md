@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Fesyse</h1>
 
 - ✨ I use arch btw
-- 🔭 I’m currently working on [Tasklytic](https://github.com/fesyse/tasklytic)
+- 🔭 I’m currently working on [Tasklytic](https://tasklytic.fesyse.site)
 
 <h3 align="left">Things that im working with:</h3>
 <p align="left">
